@@ -45,6 +45,20 @@
           49.9666713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazev": "Vikýřovice",
+        "popisek": "Vepřek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.012867,
+          49.978674
+        ]
+      }
     }
   ]
 }
