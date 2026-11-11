@@ -50,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "nazev": "Vikýřovice",
-        "popisek": "Vepřek"
+        "popisek": "Veprek",
+        "id": 4
       },
       "geometry": {
         "type": "Point",
